@@ -1,4 +1,3 @@
-# P5.js
 
 <!DOCTYPE html>
 <html lang="en">
